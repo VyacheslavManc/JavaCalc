@@ -25,9 +25,6 @@ public class CalcAction {
                 answer = ctd.firstNum / ctd.secondNumb;
                 break;
 
-            default:
-                System.out.println("You entered a wrong symbol");
-
 
         }
 
